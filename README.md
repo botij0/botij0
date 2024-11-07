@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧Backend Developer at EVO Banco 🏦 in the Disruptive Innovation Department. <br>Developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠, Rust 🦀 and Optimization 🚀.
+🔧Software Engineer at EVO Banco 🏦 in the Disruptive Innovation Department. <br>Developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠, Rust 🦀 and Optimization 🚀.
 
 [![](https://visitcount.itsvg.in/api?id=Javier-Gonzalez-Soldado&icon=0&color=6)](https://visitcount.itsvg.in)
 
