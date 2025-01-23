@@ -1,9 +1,6 @@
-# 💫 About Me:
+## 💫 About Me:
 🔧Software Engineer at EVO Banco 🏦 in the Disruptive Innovation Department. <br>Developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠 and Optimization 🚀.
 
-[![](https://visitcount.itsvg.in/api?id=Javier-Gonzalez-Soldado&icon=0&color=6)](https://visitcount.itsvg.in)
-
-# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -23,7 +20,4 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%23326ce5.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=botij0&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
