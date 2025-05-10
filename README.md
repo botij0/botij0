@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔧Software Engineer at EVO Banco 🏦 in the Disruptive Innovation Department. <br>Developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠 and Optimization 🚀.
+🔧Software Engineer at ThermoHuman🌡️. <br>Developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠 and Optimization 🚀.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
