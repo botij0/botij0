@@ -1,10 +1,6 @@
 <p align='center'>
-  <picture>
-    <img
-      src="https://github-widgetbox.vercel.app/api/profile?username=botij0&theme=dracula&data=followers,repositories,commits"
-      width=100%
-    />
-  </picture>
+<img width="1700" height="460" alt="github-header-banner-GUrren" src="https://github.com/user-attachments/assets/e3679aaa-eff9-49d9-ae0f-4fa141486220" />
+
 </p>
 
 ## 💫 About Me:
@@ -21,15 +17,3 @@ Software Engineer 🔧 at ThermoHuman🌡️. Developing solutions💡 leveragin
   <img src="https://github-readme-stats-fast.vercel.app/api?username=botij0&show_icons=true&theme=tokyonight&hide_border=true&card_width=320" height="175"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=botij0&layout=compact&theme=tokyonight&hide_border=true&card_width=320" height="175"/>
 </div>
-<!-- <div align="left">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=botij0&show_icons=true&theme=tokyonight&hide_border=true&card_width=320" height="175"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=botij0&layout=compact&theme=tokyonight&hide_border=true&card_width=320" height="175"/>
-      </td>
-    </tr>
-  </table>
-</div> -->
