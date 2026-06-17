@@ -1,3 +1,12 @@
+<p align='center'>
+  <picture>
+    <img
+      src="https://github-widgetbox.vercel.app/api/profile?username=botij0&theme=dracula&data=followers,repositories,commits"
+      width=100%
+    />
+  </picture>
+</p>
+
 ## 💫 About Me:
 Software Engineer 🔧 at ThermoHuman🌡️. Developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠 and Full stack development 🚀.
 
