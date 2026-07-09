@@ -4,7 +4,7 @@
 </p>
 
 ## 💫 About Me:
-Software Engineer 🔧 at ThermoHuman🌡️. Developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠 and Full stack development 🚀.
+Software Engineer 🔧 developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠 and Full stack development 🚀.
 
 ## 💻 Technologies
 [![My confort Technologies](https://skillicons.dev/icons?i=py,js,ts,react,tailwind,nodejs,nestjs,fastapi,mysql,postgres,redis,git,docker,kubernetes,azure)](https://skillicons.dev)
