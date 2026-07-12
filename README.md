@@ -4,7 +4,11 @@
 </p>
 
 ## 💫 About Me:
-Software Engineer 🔧 developing solutions💡 leveraging the capabilities of Generative AI 🧠. <br>Interest in software development 👨‍💻, Generative AI 🧠 and Full stack development 🚀.
+Software Engineer with experience building full-stack applications and production-grade Generative AI solutions. 
+
+I enjoy solving complex engineering challenges, optimizing system performance, and building products that create measurable value for users and businesses.
+
+My background combines product engineering with expertise in LLM-powered applications, Retrieval-Augmented Generation (RAG), AI agents, agent orchestration frameworks (Agent Harnesses), and Guardrails for safe and reliable AI systems.
 
 ## 💻 Technologies
 [![My confort Technologies](https://skillicons.dev/icons?i=py,js,ts,react,tailwind,nodejs,nestjs,fastapi,mysql,postgres,redis,git,docker,kubernetes,azure)](https://skillicons.dev)
