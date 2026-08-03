@@ -1,5 +1,5 @@
 <p align='center'>
-  <img width="1700" height="460" alt="github-header-banner-GUrren" src="https://github.com/user-attachments/assets/e3679aaa-eff9-49d9-ae0f-4fa141486220" />
+  <img width="1080" height="188" alt="github-banner-crop2" src="https://github.com/user-attachments/assets/98b270cb-a738-4de8-a3e1-14bb2d6f7860" />
 </p>
 
 ## 💫 About Me:
