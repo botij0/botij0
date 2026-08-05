@@ -20,6 +20,6 @@ I enjoy solving complex engineering challenges, optimizing system performance, a
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
 
 <div align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=botij0&show_icons=true&theme=tokyonight&hide_border=true&card_width=320" height="175"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=botij0&layout=compact&theme=tokyonight&hide_border=true&card_width=320" height="175"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=botij0&show_icons=true&theme=catppuccin_mocha&hide_border=true&card_width=320" height="175"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=botij0&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=320" height="175"/>
 </div>
